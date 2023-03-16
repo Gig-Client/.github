@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Projet-Annuel-5e-Annee/.github/blob/main/ola.jpg?raw=true" alt="Logo" height=150/>
-</p>
-
 ## Hi there 👋
 
 <!--
