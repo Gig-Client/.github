@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome on Gig github page !
+## Hi there 👋 Welcome on IzzUp github page !
 
 <!--
 
